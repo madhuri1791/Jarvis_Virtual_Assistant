@@ -27,3 +27,6 @@
 
 </ol>
 
+# Output of the Project 
+![1](https://user-images.githubusercontent.com/56513810/137119171-f77e7023-2472-4aad-a606-21eec3a95aef.png)
+
